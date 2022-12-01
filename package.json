@@ -1,0 +1,22 @@
+{
+  "name": "node-csbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajneeshDevSingh/Node-and-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajneeshDevSingh/Node-and-Backend/issues"
+  },
+  "homepage": "https://github.com/RajneeshDevSingh/Node-and-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
