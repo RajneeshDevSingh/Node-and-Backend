@@ -18,6 +18,8 @@ const insertdata = async ()=>
         {name:"note 7",brand:"Vivo",price:1700,},
         {name:"note 8",brand:"Vivo",price:1800,},
         {name:"note 9",brand:"Vivo",price:1900,},
+        {name:"note 10",brand:"Vivo",price:2000,},
+        {name:"note 11",brand:"Vivo",price:2100,},
         
     ])
 
